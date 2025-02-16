@@ -25,7 +25,7 @@ npm install
  Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/ai-title-generator.git
+git clone https://github.com/henrybillal/ai-title-generator.git
 cd ai-title-generator
 ```
 
